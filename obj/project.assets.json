@@ -664,30 +664,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guillaume\\.nuget\\packages\\": {},
+    "C:\\Users\\Dovydas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\users\\guillaume\\desktop\\year2\\OOP\\RPG\\RPG.csproj",
+      "projectUniqueName": "C:\\Users\\Dovydas\\Documents\\GitHub\\Week04\\RPG\\RPG.csproj",
       "projectName": "RPG",
-      "projectPath": "C:\\users\\guillaume\\desktop\\year2\\OOP\\RPG\\RPG.csproj",
-      "packagesPath": "C:\\Users\\guillaume\\.nuget\\packages\\",
-      "outputPath": "C:\\users\\guillaume\\desktop\\year2\\OOP\\RPG\\obj\\",
+      "projectPath": "C:\\Users\\Dovydas\\Documents\\GitHub\\Week04\\RPG\\RPG.csproj",
+      "packagesPath": "C:\\Users\\Dovydas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dovydas\\Documents\\GitHub\\Week04\\RPG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\guillaume\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Dovydas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

@@ -16,8 +16,11 @@ namespace RPG
             
         } 
 
+        public string ItemName { get; set; }
+
         public virtual void Drop()
         {
+            //TODO: Implement the drop method
             Console.WriteLine("Item was droped");
         }
         
@@ -27,9 +30,13 @@ namespace RPG
         int Dmg;
         int Def;
 
+
+
         public override void Drop()
         {
+            //TODO: Implement the drop method
             Console.WriteLine("The weapon was droped");
+
         }
     }
 }

@@ -12,5 +12,7 @@ namespace RPG
         {
             this.name = "Guillaume";
         }
+
+        public string Name { get; set; }
     }
 }
